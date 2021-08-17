@@ -96,7 +96,14 @@ namespace GPOpgaver
          */
         public static int InsertSortedList(List<int> sortedList, int insert)
         {
-            throw new NotImplementedException();
+            int insertat = 0;
+            foreach (int number in sortedList)
+            {
+                if (number > insert)
+                    break;
+                insertat++;
+            }
+            return insertat;
             //Write your solution here
         }
         /*
@@ -107,7 +114,13 @@ namespace GPOpgaver
          */
         public static int[] ArrayOfMultiples(int num, int length)
         {
-            throw new NotImplementedException();
+            int[] result = new int[length];
+            for (int i= 0; i< length; i++)
+            {
+                result[i] = num;
+                num = result[0] * (i+2);
+            }
+            return result;
             //Write your solution here
         }
         /*

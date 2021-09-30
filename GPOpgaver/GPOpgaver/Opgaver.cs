@@ -130,7 +130,14 @@ namespace GPOpgaver
          */
         public static int PowerRanger(int power, int min, int max)
         {
-            throw new NotImplementedException();
+            int steps = 1;
+            for(int i = power;Math.Pow(i,power)> max; i++)
+            {
+                var n = Math.Pow(i, power);
+                if (n >= min)
+                    steps++;
+            }
+            return steps;
             //Write your solution here
         }
         /*

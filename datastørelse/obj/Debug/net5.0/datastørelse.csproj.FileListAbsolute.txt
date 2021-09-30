@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\datastørelse\bin\Debug\net5.0\datastørelse.exe
+C:\Users\Acer\source\repos\datastørelse\bin\Debug\net5.0\datastørelse.deps.json
+C:\Users\Acer\source\repos\datastørelse\bin\Debug\net5.0\datastørelse.runtimeconfig.json
+C:\Users\Acer\source\repos\datastørelse\bin\Debug\net5.0\datastørelse.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\datastørelse\bin\Debug\net5.0\datastørelse.dll
+C:\Users\Acer\source\repos\datastørelse\bin\Debug\net5.0\ref\datastørelse.dll
+C:\Users\Acer\source\repos\datastørelse\bin\Debug\net5.0\datastørelse.pdb
+C:\Users\Acer\source\repos\datastørelse\obj\Debug\net5.0\datastørelse.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\datastørelse\obj\Debug\net5.0\datastørelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\datastørelse\obj\Debug\net5.0\datastørelse.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\datastørelse\obj\Debug\net5.0\datastørelse.AssemblyInfo.cs
+C:\Users\Acer\source\repos\datastørelse\obj\Debug\net5.0\datastørelse.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\datastørelse\obj\Debug\net5.0\datastørelse.dll
+C:\Users\Acer\source\repos\datastørelse\obj\Debug\net5.0\ref\datastørelse.dll
+C:\Users\Acer\source\repos\datastørelse\obj\Debug\net5.0\datastørelse.pdb
+C:\Users\Acer\source\repos\datastørelse\obj\Debug\net5.0\datastørelse.genruntimeconfig.cache
